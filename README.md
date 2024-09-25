@@ -4,4 +4,4 @@ Dimensionality Reduction is the process of reducing the number of input variable
 
 Checkout my step by steo process on howi carried it out using PCA(Principal Component Analysis)
 
-Model Deployment 90%
+
